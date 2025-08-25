@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 Disallow: /
-Sitemap: https://leadresumes.in/usha/sitemap.xml
+Sitemap: https://www.packmyjewels.com/sitemap.xml
